@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Card = ({ data }: { data: ICard[] }) => {
   return (
-    <div className="mb-8 md:mb-25 m-5">
+    <div className="relative z-10 mb-8 md:mb-25 m-5">
       <div className="max-w-xl mx-auto mb-7 md:mb-15 text-[#333333]">
         <h1 className="text-center text-3xl md:text-5xl font-bold mb-5">
           Topluluğumuzdaki Mentorlarla Tanış

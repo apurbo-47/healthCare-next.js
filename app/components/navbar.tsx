@@ -25,17 +25,17 @@ export default function Navbar() {
               </Link>
             </li>
             <li>
-              <Link className="hover:text-[#059669]" href="/mentors">
+              <Link className="hover:text-[#059669]" href="/about">
                 Mentorlar
               </Link>
             </li>
             <li>
-              <Link className="hover:text-[#059669]" href="/articles">
+              <Link className="hover:text-[#059669]" href="/blog">
                 Makaleler
               </Link>
             </li>
             <li>
-              <Link className="hover:text-[#059669]" href="/community">
+              <Link className="hover:text-[#059669]" href="/contact">
                 Topluluk
               </Link>
             </li>
